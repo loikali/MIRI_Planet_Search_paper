@@ -6,5 +6,6 @@ This repository contains the submitted version of our manuscript to AAS.
 - **Authors**: Yihan Li, Yifan Zhou, et al.
 - **Submitted**: Nov 21, 2025
 - **Referee Report Received**: Dec 25, 2025
+- **Resubmitted**: Mar 12, 2026
 
 The PDF can be found in this repository as `MIRI_Planet_Search.pdf`.
