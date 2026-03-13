@@ -8,4 +8,4 @@ This repository contains the submitted version of our manuscript to AAS.
 - **Referee Report Received**: Dec 25, 2025
 - **Resubmitted**: Mar 12, 2026
 
-The PDF can be found in this repository as `MIRI_Planet_Search.pdf`.
+The resubmitted version can be found in this repository as `MIRI_Planet_Search_revised.pdf`.
